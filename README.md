@@ -1,4 +1,4 @@
-# WhatsApp → Twilio Gateway
+# WebRTC to SIP (WhatsApp Calls to Twilio Gateway)
 
 This repository contains an **orchestrator** service and supporting
 instructions to help you bridge inbound WhatsApp Calling sessions
